@@ -1,0 +1,55 @@
+# GENERALE
+# Origine: www.ti.ch/oasi
+# Contatto: oasi@ti.ch
+# 
+# RICHIESTA
+# Url della richiesta: http://www.oasi.ti.ch/web/rest/measure/csv?domain=meteo&resolution=m&parameter=T&from=2024-01-01&to=2026-01-01&location=auto_57
+# Data della richiesta: 03.01.2026 10:37:43 CET
+# 
+# INFORMAZIONI SUI DATI
+# Dominio: meteo
+# Proprietario dati: WSL
+# Condizioni d'uso:
+#   In generale i dati scaricati possono essere liberamente usati o condivisi o pubblicati a condizione
+#   che venga citato adeguatamente il proprietario dei dati.
+#   Fanno eccezione i dati dell'Ufficio federale di meteorologia e climatologia MeteoSvizzera che
+#   non possono essere ne' pubblicati su internet o altri mass-media ne' trasmessi a terzi
+#   nella loro forma grezza ne' usati a scopo commerciale
+# Avvertenza: i dati recenti sono provvisori e possono subire modifiche durante il processo di controllo della qualita' dei dati
+# Luogo: Novaggio
+# Stazione: http://www.oasi.ti.ch/web/dati/stazioni-di-rilevamento.html?domain=meteo&code=auto_57
+# Coordinate (CH1903+): 2708158/1097952
+# Parametro: T - Temperatura
+# Unita' di misura: °C
+# Aggregazione: avg_monthly
+# Risoluzione temporalee: mensile
+# Indicazione temporale: meta' dell'intervallo di misura
+# Formato ora: GMT+01:00 (Without Dailight Saving Time)
+
+
+data;T;provvisorio;
+15.01.2024 00:00:00;3.6;*;
+15.02.2024 00:00:00;6.5;*;
+15.03.2024 00:00:00;6.0;*;
+15.04.2024 00:00:00;9.2;*;
+15.05.2024 00:00:00;11.4;*;
+15.06.2024 00:00:00;16.2;*;
+15.07.2024 00:00:00;20.4;*;
+15.08.2024 00:00:00;21.8;*;
+15.09.2024 00:00:00;14.0;*;
+15.10.2024 00:00:00;11.1;*;
+15.11.2024 00:00:00;6.5;*;
+15.12.2024 00:00:00;4.2;*;
+15.01.2025 00:00:00;2.0;*;
+15.02.2025 00:00:00;2.5;*;
+15.03.2025 00:00:00;5.9;*;
+15.04.2025 00:00:00;10.1;*;
+15.05.2025 00:00:00;12.7;*;
+15.06.2025 00:00:00;19.7;*;
+15.07.2025 00:00:00;18.6;*;
+15.08.2025 00:00:00;18.9;*;
+15.09.2025 00:00:00;14.1;*;
+15.10.2025 00:00:00;9.8;*;
+15.11.2025 00:00:00;5.4;*;
+15.12.2025 00:00:00;4.9;*;
+15.01.2026 00:00:00;-0.4;*;

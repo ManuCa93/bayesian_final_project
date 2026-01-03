@@ -1,0 +1,55 @@
+# GENERALE
+# Origine: www.ti.ch/oasi
+# Contatto: oasi@ti.ch
+# 
+# RICHIESTA
+# Url della richiesta: http://www.oasi.ti.ch/web/rest/measure/csv?domain=meteo&resolution=m&parameter=T&from=2024-01-01&to=2026-01-01&location=air_525%2001%2001
+# Data della richiesta: 03.01.2026 10:35:48 CET
+# 
+# INFORMAZIONI SUI DATI
+# Dominio: meteo
+# Proprietario dati: DT-DA-SPAAS-UMAm
+# Condizioni d'uso:
+#   In generale i dati scaricati possono essere liberamente usati o condivisi o pubblicati a condizione
+#   che venga citato adeguatamente il proprietario dei dati.
+#   Fanno eccezione i dati dell'Ufficio federale di meteorologia e climatologia MeteoSvizzera che
+#   non possono essere ne' pubblicati su internet o altri mass-media ne' trasmessi a terzi
+#   nella loro forma grezza ne' usati a scopo commerciale
+# Avvertenza: i dati recenti sono provvisori e possono subire modifiche durante il processo di controllo della qualita' dei dati
+# Luogo: Camignolo
+# Stazione: http://www.oasi.ti.ch/web/dati/stazioni-di-rilevamento.html?domain=meteo&code=air_525 01 01
+# Coordinate (CH1903+): 2715430/1106905
+# Parametro: T - Temperatura
+# Unita' di misura: °C
+# Aggregazione: avg_monthly
+# Risoluzione temporalee: mensile
+# Indicazione temporale: meta' dell'intervallo di misura
+# Formato ora: GMT+01:00 (Without Dailight Saving Time)
+
+
+data;T;provvisorio;
+15.01.2024 00:00:00;4.6;;
+15.02.2024 00:00:00;8.5;;
+15.03.2024 00:00:00;9.6;;
+15.04.2024 00:00:00;12.8;;
+15.05.2024 00:00:00;15.1;;
+15.06.2024 00:00:00;19.6;;
+15.07.2024 00:00:00;23.8;;
+15.08.2024 00:00:00;24.4;;
+15.09.2024 00:00:00;17.4;;
+15.10.2024 00:00:00;13.8;;
+15.11.2024 00:00:00;6.8;;
+15.12.2024 00:00:00;4.6;;
+15.01.2025 00:00:00;3.9;;
+15.02.2025 00:00:00;5.5;;
+15.03.2025 00:00:00;9.2;;
+15.04.2025 00:00:00;13.6;;
+15.05.2025 00:00:00;16.5;;
+15.06.2025 00:00:00;23.2;*;
+15.07.2025 00:00:00;22.4;*;
+15.08.2025 00:00:00;22.3;;
+15.09.2025 00:00:00;17.2;;
+15.10.2025 00:00:00;12.7;;
+15.11.2025 00:00:00;7.4;;
+15.12.2025 00:00:00;5.9;*;
+15.01.2026 00:00:00;1.4;*;
